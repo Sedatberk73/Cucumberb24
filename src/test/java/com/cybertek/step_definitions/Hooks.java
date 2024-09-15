@@ -10,12 +10,12 @@ import org.openqa.selenium.TakesScreenshot;
 import java.io.File;
 
 public class Hooks {
-@Before
-public void setup(){
-    System.out.println("BEFORE -setUp method is running before the scenario");
-
-
-}
+//@Before
+//public void setup(){
+//    System.out.println("BEFORE -setUp method is running before the scenario");
+//
+//
+//}
 
 
 
